@@ -1,3 +1,4 @@
 interface:
-  display_name: "系列易拉宝文案策划"
-  short_description: "把旧会议材料与新增参考融合为有顺序的系列易拉宝文案，控制文字密度并保持具体内容；适用于展架、系列展板的内容策划。"
+  display_name: "品宣设计手册"
+  short_description: "从海报、X展架文案策划到成品设计，交付可扩展的客户品宣手册PDF与可编辑源文件"
+  default_prompt: "使用 $series-rollup-copy，依据品牌资料完成海报和X展架策划、成品设计，并交付可扩展的品宣手册PDF及源文件。"
